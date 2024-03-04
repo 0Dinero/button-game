@@ -4,7 +4,7 @@ void setup(){
 
 void draw(){
   background(255,0,0);
-  text("press to print hello world", 50, 50);
+  text("press to print 'hello world'", 50, 50);
 }
 
 void mousePressed(){
